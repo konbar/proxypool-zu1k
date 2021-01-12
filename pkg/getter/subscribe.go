@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ilpl/proxypool/pkg/proxy"
-	"github.com/ilpl/proxypool/pkg/tool"
+	"github.com/konbar/proxypool/pkg/proxy"
+	"github.com/konbar/proxypool/pkg/tool"
 )
 
 func init() {
