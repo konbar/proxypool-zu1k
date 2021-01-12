@@ -7,11 +7,11 @@ import (
 	_ "net/http/pprof"
 	"os"
 
-	"github.com/ilpl/proxypool/api"
-	"github.com/ilpl/proxypool/internal/app"
-	"github.com/ilpl/proxypool/internal/cron"
-	"github.com/ilpl/proxypool/internal/database"
-	"github.com/ilpl/proxypool/pkg/proxy"
+	"github.com/konbar/proxypool/api"
+	"github.com/konbar/proxypool/internal/app"
+	"github.com/konbar/proxypool/internal/cron"
+	"github.com/konbar/proxypool/internal/database"
+	"github.com/konbar/proxypool/pkg/proxy"
 )
 
 var configFilePath = ""
