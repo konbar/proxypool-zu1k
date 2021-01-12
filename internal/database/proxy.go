@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/ilpl/proxypool/pkg/proxy"
+	"github.com/konbar/proxypool/pkg/proxy"
 	"gorm.io/gorm"
 )
 
