@@ -3,9 +3,9 @@ package provider
 import (
 	"strings"
 
-	"github.com/konbar/proxypool/pkg/tool"
+	"github.com/konbar/proxypool-zu1k/pkg/tool"
 
-	"github.com/konbar/proxypool/pkg/proxy"
+	"github.com/konbar/proxypool-zu1k/pkg/proxy"
 )
 
 type Surge struct {
