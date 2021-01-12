@@ -8,8 +8,8 @@ import (
 
 	"github.com/ghodss/yaml"
 
-	"github.com/konbar/proxypool/config"
-	"github.com/konbar/proxypool/pkg/getter"
+	"github.com/Alchemist-ac/proxypool/config"
+	"github.com/Alchemist-ac/proxypool/pkg/getter"
 )
 
 var Getters = make([]getter.Getter, 0)
