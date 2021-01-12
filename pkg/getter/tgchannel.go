@@ -6,8 +6,8 @@ import (
 	"sync"
 
 	"github.com/gocolly/colly"
-	"github.com/konbar/proxypool/pkg/proxy"
-	"github.com/konbar/proxypool/pkg/tool"
+	"github.com/konbar/proxypool-zu1k/pkg/proxy"
+	"github.com/konbar/proxypool-zu1k/pkg/tool"
 )
 
 func init() {
