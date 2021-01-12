@@ -46,7 +46,7 @@
 需要安装Golang
 
 ```sh
-$ go get -u -v github.com/konbar/proxypool
+$ go get -u -v github.com/konbar/proxypool-zu1k
 ```
 
 ### 下载预编译程序
@@ -56,7 +56,7 @@ $ go get -u -v github.com/konbar/proxypool
 ### 使用docker
 
 ```sh
-docker pull docker.pkg.github.com/konbar/proxypool/proxypool:latest
+docker pull docker.pkg.github.com/konbar/proxypool-zu1k/proxypool:latest
 ```
 
 ## 使用
