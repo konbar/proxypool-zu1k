@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/konbar/proxypool/pkg/tool"
+	"github.com/konbar/proxypool-zu1k/pkg/tool"
 )
 
 var (
@@ -250,7 +250,7 @@ func ParseVmessLink(link string) (*Vmess, error) {
 			},
 			UUID:           vmessJson.Id,
 			AlterID:        alterId,
-			Cipher:         "auto",
+			Cipher:         "Alchemist-ac",
 			TLS:            tls,
 			Network:        vmessJson.Net,
 			HTTPOpts:       HTTPOptions{},
