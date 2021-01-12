@@ -5,14 +5,14 @@
 <h5 align="center">自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表</h5>
 
 <p align="center">
-  <a href="https://github.com/konbar/proxypool/actions">
-    <img src="https://img.shields.io/github/workflow/status/zu1k/proxypool/Go?style=flat-square" alt="Github Actions">
+  <a href="https://github.com/Alchemist-ac/proxypool/actions">
+    <img src="https://img.shields.io/github/workflow/status/Alchemist-ac/proxypool/Go?style=flat-square" alt="Github Actions">
   </a>
-  <a href="https://goreportcard.com/report/github.com/konbar/proxypool">
-    <img src="https://goreportcard.com/badge/github.com/konbar/proxypool?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/Alchemist-ac/proxypool">
+    <img src="https://goreportcard.com/badge/github.com/Alchemist-ac/proxypool?style=flat-square">
   </a>
-  <a href="https://github.com/konbar/proxypool/releases">
-    <img src="https://img.shields.io/github/release/zu1k/proxypool/all.svg?style=flat-square">
+  <a href="https://github.com/Alchemist-ac/proxypool/releases">
+    <img src="https://img.shields.io/github/release/Alchemist-ac/proxypool/all.svg?style=flat-square">
   </a>
 </p>
 
@@ -46,17 +46,17 @@
 需要安装Golang
 
 ```sh
-$ go get -u -v github.com/konbar/proxypool
+$ go get -u -v github.com/Alchemist-ac/proxypool
 ```
 
 ### 下载预编译程序
 
-从这里下载预编译好的程序 [release](https://github.com/konbar/proxypool/releases)
+从这里下载预编译好的程序 [release](https://github.com/Alchemist-ac/proxypool/releases)
 
 ### 使用docker
 
 ```sh
-docker pull docker.pkg.github.com/konbar/proxypool/proxypool:latest
+docker pull docker.pkg.github.com/Alchemist-ac/proxypool/proxypool:latest
 ```
 
 ## 使用
