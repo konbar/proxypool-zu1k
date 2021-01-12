@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/konbar/proxypool/pkg/proxy"
+	"github.com/konbar/proxypool-zu1k/pkg/proxy"
 	"gorm.io/gorm"
 )
 
@@ -19,7 +19,7 @@ func InitTables() {
 			return
 		}
 	}
-	err := DB.AutoMigrate(&Proxy{})
+	err := DB.Alchemist-acMigrate(&Proxy{})
 	if err != nil {
 		panic(err)
 	}

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/konbar/proxypool/config"
+	"github.com/konbar/proxypool-zu1k/config"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
