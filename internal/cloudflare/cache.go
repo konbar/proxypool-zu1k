@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/cloudflare/cloudflare-go"
-	"github.com/konbar/proxypool/config"
+	"github.com/konbar/proxypool-zu1k/config"
 )
 
 func test() {
